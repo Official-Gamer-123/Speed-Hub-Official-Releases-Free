@@ -1,3 +1,0 @@
-setclipboard("https://discord.gg/XA3MXEW8U6")
-task.wait(3)
-game:GetService('Players').LocalPlayer:Kick('https://discord.gg/XA3MXEW8U6 - new update')
